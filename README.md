@@ -1,3 +1,2 @@
-# web-platform-bphhkj
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-bphhkj)
+# kancolle-replay
+Sortie Replay and Simulation by @fourinone41
